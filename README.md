@@ -1,6 +1,4 @@
 <!--
-**GodAJK/GodAJK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
