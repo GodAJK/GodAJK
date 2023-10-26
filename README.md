@@ -1,11 +1,21 @@
-
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=NewYork&size=35&center=true&vCenter=true&Colour=Pink&width=500&height=70&duration=4000&lines=Wagwan+G;+My+Name+Is+Andrew!;+Welcome+to+my+Profile!" />
+</h1>
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h2>They Call Me</h2>
   <br>
   
+░██████╗░░█████╗░██████╗░░█████╗░░░░░░██╗██╗░░██╗
+██╔════╝░██╔══██╗██╔══██╗██╔══██╗░░░░░██║██║░██╔╝
+██║░░██╗░██║░░██║██║░░██║███████║░░░░░██║█████═╝░
+██║░░╚██╗██║░░██║██║░░██║██╔══██║██╗░░██║██╔═██╗░
+╚██████╔╝╚█████╔╝██████╔╝██║░░██║╚█████╔╝██║░╚██╗
+░╚═════╝░░╚════╝░╚═════╝░╚═╝░░╚═╝░╚════╝░╚═╝░░╚═╝
   <br/><br/><br/>
 </div>
-
+<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=GodAJK&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=3&theme=vue-dark&hide_border=true&order=2" height="150" alt="languages graph"  />
+<br>
 <h2 align="center">✨ Languages/Frameworks ✨</h2>
 <br/>
 <div align="center">
