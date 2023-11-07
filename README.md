@@ -18,8 +18,11 @@
 <h2 align="center">✨ Languages/Frameworks ✨</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,vscode" />
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,c#,java,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=cs,java"/><br>
+    <img src="https://skillicons.dev/icons?i=html,css,javascript" />
+    <img src="https://skillicons.dev/icons?i=typescript" /><br>
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,docker,,,unity,blender,unreal" /><br>
+    <img src="https://skillicons.dev/icons?i=eclipse,vscode,visualstudio,androidstudio"/><br>
 </div>
 
 <h2 align="center">📈 Stats 📈</h2>
