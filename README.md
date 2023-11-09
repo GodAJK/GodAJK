@@ -54,5 +54,5 @@
 ⡀⠹⡄⠀⢷⠀⠀⢧⠀⠀⠈⡆⠀⡇⠀⠀⠀⠀⠀⢹⡟⠑⢤⣾⠋⠀⢳⣀⠘⠙⠇⠀⠀⠀⠀⠀⡟⠀⢀⣼⠋⠀⡰⠃⠀⡜⠀⡜⢀⠃
 ⢣⡀⢹⣆⡀⢳⣀⠀⠳⣄⡀⠘⢦⡕⠀⠀⠀⠀⠀⢸⡇⠀⠀⢳⠀⠀⣼⠉⠀⢸⡆⠀⠀⠀⠀⠀⠺⣶⡚⠁⣠⠖⠁⣠⠎⢀⡜⣠⠊⠀
 </div><br>
-<h2 align="center"> New Project Coming Soon...</h2>
+<h2 align="center"> New Project Coming Soon</h2>
 
